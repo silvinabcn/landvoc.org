@@ -517,10 +517,10 @@ div#maincontent {
   outline: none;
 }
 
-.success li a,
-.success li a:hover,
-.success li a:focus,
-.success li a:active,
-.success li a.active {
-  color: white;
+.success a,
+.success a:hover,
+.success a:focus,
+.success a:active,
+.success a.active {
+  color: #2C3E50;
 }
