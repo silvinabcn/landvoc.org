@@ -1,0 +1,61 @@
+{
+  "@context": "http://www.w3.org/ns/csvw", 
+  "@type": "Table", 
+  "url": "LandVoc-concepts.csv",
+  "dc:creator": ["Lisette Meij", "Carlos Tejo-Alonso"], 
+  "dc:title": "LandVoc concepts", 
+  "dc:modified": {"@value": "2018-01-11", "@type": "xsd:date"},
+  "dc:license": {"@id": "http://creativecommons.org/licenses/by-nc-sa/3.0/igo/"},
+  "tableSchema": {
+    "aboutUrl": "{Agrovoc Unique Identifier}",
+    "primaryKey": "Agrovoc Unique Identifier",
+    "columns": [
+      {
+        "name": "English", 
+		"titles": {
+           "en": "Concept label in English"
+        },
+        "dc:description": "The label in English of a concept",
+        "datatype": "string", 
+        "propertyUrl": "skos:prefLabel"
+      },
+      {
+        "name": "Spanish", 
+		"titles": {
+           "en": "Concept label in Spanish"
+        },
+        "dc:description": "The Spanish label of a concept",
+        "datatype": "string", 
+        "propertyUrl": "skos:prefLabel"
+      },
+      {
+        "name": "French", 
+		"titles": {
+           "en": "Concept label in French"
+        },
+        "dc:description": "The French label of a concept",
+        "datatype": "string", 
+        "propertyUrl": "skos:prefLabel"
+      },
+      {
+        "name": "Portuguese", 
+		"titles": {
+           "en": "Concept label in Portuguese"
+        },
+        "dc:description": "The label in Portuguese of a concept",
+        "datatype": "string", 
+        "propertyUrl": "skos:prefLabel"
+      },
+      {
+        "name": "Agrovoc Unique Identifier",
+		"titles": {
+           "en": "The AGROVOC URI of the concept"
+        },
+        "dc:description": "The AGROVOC URI of the LandVoc concept",
+        "required": true
+      }
+    ]
+  }
+}
+
+				
