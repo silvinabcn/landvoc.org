@@ -1,11 +1,14 @@
 {
-  "@context": "http://www.w3.org/ns/csvw", 
+  "@context": {"@vocab": "http://www.w3.org/ns/csvw#"},
   "@type": "Table", 
   "url": "LandVoc-concepts.csv",
   "dc:creator": ["Lisette Meij", "Carlos Tejo-Alonso"], 
   "dc:title": "LandVoc concepts", 
   "dc:modified": {"@value": "2018-01-11", "@type": "xsd:date"},
-  "dc:license": {"@id": "https://creativecommons.org/licenses/by/3.0/igo/"},
+  "dc:license": {"@id": "https://creativecommons.org/licenses/by/3.0/igo/", "@type": "http://schema.org/URL"},
+  "dcat:keyword": ["land", "land governance"],
+  "dcat:theme": [{"@id": "http://aims.fao.org/aos/agrovoc/c_4172", "@type": "http://schema.org/URL"},
+				 {"@id": "http://aims.fao.org/aos/agrovoc/c_aca7ac6d", "@type": "http://schema.org/URL"}],
   "tableSchema": {
     "aboutUrl": "{Agrovoc Unique Identifier}",
     "primaryKey": "Agrovoc Unique Identifier",
