@@ -3,10 +3,12 @@
   "@type": "Table", 
   "url": "LandVoc-concepts.csv",
   "dc:creator": ["Lisette Meij", "Carlos Tejo-Alonso"], 
-  "dc:title": "LandVoc concepts", 
+  "dc:title": {
+    "@value": "LandVoc concepts",
+    "@language": "en"},
   "dc:modified": {"@value": "2018-01-11", "@type": "xsd:date"},
   "dc:license": {"@id": "https://creativecommons.org/licenses/by/3.0/igo/", "@type": "http://schema.org/URL"},
-  "dcat:keyword": ["land", "land governance"],
+  "dcat:keyword": [{"@value": "land", "@language": "en"}, {"@value": "land governance", "@language": "en"}],
   "dcat:theme": [{"@id": "http://aims.fao.org/aos/agrovoc/c_4172", "@type": "http://schema.org/URL"},
 				 {"@id": "http://aims.fao.org/aos/agrovoc/c_aca7ac6d", "@type": "http://schema.org/URL"}],
   "tableSchema": {
@@ -16,45 +18,65 @@
       {
         "name": "English", 
 		"titles": {
-           "en": "Concept label in English"
+            "@value": "Concept label in English",
+            "@language": "en"
         },
-        "dc:description": "The label in English of a concept",
+        "dc:description": {
+            "@value": "The English label of a concept",
+            "@language": "en"
+		},
         "datatype": "string", 
         "propertyUrl": "skos:prefLabel"
       },
       {
         "name": "Spanish", 
 		"titles": {
-           "en": "Concept label in Spanish"
+            "@value": "Concept label in Spanish",
+            "@language": "en"
         },
-        "dc:description": "The Spanish label of a concept",
+        "dc:description": {
+            "@value": "The Spanish label of a concept",
+            "@language": "en"
+		},
         "datatype": "string", 
         "propertyUrl": "skos:prefLabel"
       },
       {
         "name": "French", 
 		"titles": {
-           "en": "Concept label in French"
+            "@value": "Concept label in French",
+            "@language": "en"
         },
-        "dc:description": "The French label of a concept",
+        "dc:description": {
+            "@value": "The French label of a concept",
+            "@language": "en"
+		},
         "datatype": "string", 
         "propertyUrl": "skos:prefLabel"
       },
       {
         "name": "Portuguese", 
 		"titles": {
-           "en": "Concept label in Portuguese"
+            "@value": "Concept label in Portuguese",
+            "@language": "en"
         },
-        "dc:description": "The label in Portuguese of a concept",
+        "dc:description": {
+            "@value": "The Portuguese label of a concept",
+            "@language": "en"
+		},
         "datatype": "string", 
         "propertyUrl": "skos:prefLabel"
       },
       {
         "name": "Agrovoc Unique Identifier",
 		"titles": {
-           "en": "The AGROVOC URI of the concept"
+            "@value": "The AGROVOC URI of the concept",
+            "@language": "en"
         },
-        "dc:description": "The AGROVOC URI of the LandVoc concept",
+        "dc:description": {
+            "@value": "The AGROVOC URI of the LandVoc concept",
+            "@language": "en"
+		},
         "required": true
       }
     ]
