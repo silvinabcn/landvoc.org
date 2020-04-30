@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+
+  <rdf:Description rdf:about="http://landvoc.org/landvoc">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    
+    <dct:title xml:lang="en">LandVoc - the Linked Land Governance Thesaurus</dct:title>
+    <dct:title xml:lang="es">LandVoc - el tesauro de datos enlazados sobre gobernanza de la tierra</dct:title>
+    <dct:title xml:lang="it">LandVoc - il tesauro connesso alla governance della terra</dct:title>
+    <dct:title xml:lang="pt">LandVoc - O léxico de ligação em governança da terra</dct:title>
+    <dct:title xml:lang="fr">LandVoc - le thésaurus connecté de la gouvernance foncière</dct:title>
+
+    <rdfs:label xml:lang="en">LandVoc - the Linked Land Governance Thesaurus</rdfs:label>
+    <rdfs:label xml:lang="es">LandVoc - el tesauro de datos enlazados sobre gobernanza de la tierra</rdfs:label>
+    <rdfs:label xml:lang="it">LandVoc - il tesauro connesso alla governance della terra</rdfs:label>
+    <rdfs:label xml:lang="pt">LandVoc - O léxico de ligação em governança da terra</rdfs:label>
+    <rdfs:label xml:lang="fr">LandVoc - le thésaurus connecté de la gouvernance foncière</rdfs:label>
+    
+    <dct:description xml:lang="en">LandVoc is a thesaurus covering concepts related to land governance, facilitated by the Land Portal Foundation.</dct:description>
+    <dct:description xml:lang="es">LandVoc es un tesauro sobre conceptos relativos a la gobernanza de la tierra, facilitado por Land Portal Foundation.</dct:description>
+    <dct:description xml:lang="it">LandVoc è un tesauro che copre i concetti relativi alla governance della terra, facilitato dalla Land Portal Foundation.</dct:description>
+    <dct:description xml:lang="pt">LandVoc é um tesauro de conceitos relacionados à governança da terra, apoiado pela Land Portal Foundation</dct:description>
+    <dct:description xml:lang="fr">LandVoc est un thésaurus couvrant les concepts liés à la gouvernance foncière, facilité par la Land Portal Foundation.</dct:description>
+
+    <dct:contributor rdf:resource="http://landportal.org"/>
+    <dc:contributor>Lisette Meij</dc:contributor>
+    <dc:contributor>Carlos Tejo-Alonso</dc:contributor>
+    <dc:contributor>Vittoria Ruggiero</dc:contributor>
+    <dc:contributor>Laura Meggiolaro</dc:contributor>
+    <dc:contributor>Natalia Vaccarezza</dc:contributor>
+
+    <dct:contributor rdf:resource="http://aims.fao.org"/>
+    <dc:contributor>Gerard Ciparisse</dc:contributor>
+
+    <dct:contributor rdf:resource="http://www.opendevelopmentmekong.net"/>
+
+    <dc:contributor>Henrique Pires dos Santos (ACTUAR)</dc:contributor>
+
+    <dct:contributor rdf:resource="http://www.sudamericarural.org"/>
+    <dct:contributor rdf:resource="http://www.habitat.org/lac-en"/>
+    <dct:contributor rdf:resource="http://www.ldgi.org"/>
+    <dct:contributor rdf:resource="http://www.uttaran.net"/>
+    <dct:contributor rdf:resource="http://www.acode-u.org"/>
+    <dct:contributor rdf:resource="http://www.icarda.org"/>
+    <dct:contributor rdf:resource="http://mel.cgiar.org"/>
+    <dc:contributor>Sara Jani (ICARDA, MEL)</dc:contributor>
+    <dc:contributor>Mira Haddad (ICARDA, MEL)</dc:contributor>
+
+    <dct:publisher rdf:resource="http://www.fao.org"/>
+    <dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-01</dct:created>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-01</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-04</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-05-08</dct:modified>
+    <dct:license rdf:resource="http://creativecommons.org/licenses/by/3.0/igo/" />
+
+    <owl:versionInfo>2.0</owl:versionInfo>
+
+    <foaf:homepage rdf:resource="http://landvoc.org"/>
+
+  </rdf:Description>
+  
+
+  <foaf:Organization rdf:about="http://landportal.org">
+    <foaf:homepage rdf:resource="http://landportal.org"/>
+    <foaf:name>The Land Portal Foundation</foaf:name>
+  </foaf:Organization>
+  
+  <foaf:Organization rdf:about="http://aims.fao.org">
+    <foaf:homepage rdf:resource="http://aims.fao.org"/>
+    <foaf:mbox rdf:resource="mailto:AIMS@fao.org"/>
+  </foaf:Organization>
+
+  <foaf:Organization rdf:about="http://www.opendevelopmentmekong.net">
+    <foaf:homepage rdf:resource="http://www.opendevelopmentmekong.net"/>
+    <foaf:name>Open Development Mekong</foaf:name>
+  </foaf:Organization>
+
+  <foaf:Organization rdf:about="http://www.sudamericarural.org">
+    <foaf:homepage rdf:resource="http://www.sudamericarural.org"/>
+    <foaf:name>Instituto para el Desarrollo Rural de Sudamérica (IPDRS)</foaf:name>
+  </foaf:Organization>
+
+  <foaf:Organization rdf:about="http://www.habitat.org/lac-en">
+    <foaf:homepage rdf:resource="http://www.habitat.org/lac-en"/>
+    <foaf:name>Habitat for Humanity Latin America &amp; the Caribbean</foaf:name>
+  </foaf:Organization>
+
+  <foaf:Organization rdf:about="http://www.ldgi.org">
+    <foaf:homepage rdf:resource="http://www.ldgi.org"/>
+    <foaf:name>Land Development &amp; Governance Institute (LDGI) Kenya</foaf:name>
+  </foaf:Organization>
+
+  <foaf:Organization rdf:about="http://www.uttaran.net">
+    <foaf:homepage rdf:resource="http://www.uttaran.net"/>
+    <foaf:name>Uttaran Bangladesh</foaf:name>
+  </foaf:Organization>
+
+  <foaf:Organization rdf:about="http://www.acode-u.org">
+    <foaf:homepage rdf:resource="http://www.acode-u.org"/>
+    <foaf:name>Advocates Coalition for Development &amp; Environment (ACODE) Uganda</foaf:name>
+  </foaf:Organization>
+
+  <foaf:Organization rdf:about="http://www.icarda.org">
+    <foaf:homepage rdf:resource="http://www.icarda.org"/>
+    <foaf:name>International Center for Agricultural Research in the Dry Areas (ICARDA)</foaf:name>
+  </foaf:Organization>
+
+  <foaf:Organization rdf:about="http://mel.cgiar.org">
+    <foaf:homepage rdf:resource="http://mel.cgiar.org"/>
+    <foaf:name>Monitoring, Evaluation and Learning Team (MEL)</foaf:name>
+  </foaf:Organization>
+
+</rdf:RDF>
