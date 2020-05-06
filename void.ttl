@@ -1,0 +1,73 @@
+﻿@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc11: <http://purl.org/dc/elements/1.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<http://landvoc.org/landvoc>
+  a skos:ConceptScheme, void:Dataset ;
+  dc:title "LandVoc - the Linked Land Governance Thesaurus"@en, "LandVoc - el tesauro de datos enlazados sobre gobernanza de la tierra"@es, "LandVoc - il tesauro connesso alla governance della terra"@it, "LandVoc - O léxico de ligação em governança da terra"@pt, "LandVoc - le thésaurus connecté de la gouvernance foncière"@fr ;
+  rdfs:label "LandVoc - the Linked Land Governance Thesaurus"@en, "LandVoc - el tesauro de datos enlazados sobre gobernanza de la tierra"@es, "LandVoc - il tesauro connesso alla governance della terra"@it, "LandVoc - O léxico de ligação em governança da terra"@pt, "LandVoc - le thésaurus connecté de la gouvernance foncière"@fr ;
+  dc:description "LandVoc is a thesaurus covering concepts related to land governance, facilitated by the Land Portal Foundation."@en, "LandVoc es un tesauro sobre conceptos relativos a la gobernanza de la tierra, facilitado por Land Portal Foundation."@es, "LandVoc è un tesauro che copre i concetti relativi alla governance della terra, facilitato dalla Land Portal Foundation."@it, "LandVoc é um tesauro de conceitos relacionados à governança da terra, apoiado pela Land Portal Foundation"@pt, "LandVoc est un thésaurus couvrant les concepts liés à la gouvernance foncière, facilité par la Land Portal Foundation."@fr ;
+  dc:contributor <http://landportal.org>, <http://aims.fao.org>, <http://www.opendevelopmentmekong.net>, <http://www.sudamericarural.org>, <http://www.habitat.org/lac-en>, <http://www.ldgi.org>, <http://www.uttaran.net>, <http://www.acode-u.org>, <http://www.icarda.org>, <http://mel.cgiar.org> ;
+  dc11:contributor "Lisette Meij", "Carlos Tejo-Alonso", "Vittoria Ruggiero", "Laura Meggiolaro", "Natalia Vaccarezza", "Gerard Ciparisse", "Henrique Pires dos Santos (ACTUAR)", "Sara Jani (ICARDA, MEL)", "Mira Haddad (ICARDA, MEL)" ;
+  dc:publisher <http://www.fao.org> ;
+  dc:created "2016-06-01"^^xsd:date ;
+  dc:issued "2016-06-01"^^xsd:date ;
+  dc:modified "2018-12-04"^^xsd:date, "2020-05-08"^^xsd:date ;
+  dc:license <http://creativecommons.org/licenses/by/3.0/igo/> ;
+  owl:versionInfo "2.0" ;
+  foaf:homepage <http://landvoc.org> .
+
+<http://landportal.org>
+  a foaf:Organization ;
+  foaf:homepage <http://landportal.org> ;
+  foaf:name "The Land Portal Foundation" .
+
+<http://aims.fao.org>
+  a foaf:Organization ;
+  foaf:homepage <http://aims.fao.org> ;
+  foaf:mbox <mailto:AIMS@fao.org> .
+
+<http://www.opendevelopmentmekong.net>
+  a foaf:Organization ;
+  foaf:homepage <http://www.opendevelopmentmekong.net> ;
+  foaf:name "Open Development Mekong" .
+
+<http://www.sudamericarural.org>
+  a foaf:Organization ;
+  foaf:homepage <http://www.sudamericarural.org> ;
+  foaf:name "Instituto para el Desarrollo Rural de Sudamérica (IPDRS)" .
+
+<http://www.habitat.org/lac-en>
+  a foaf:Organization ;
+  foaf:homepage <http://www.habitat.org/lac-en> ;
+  foaf:name "Habitat for Humanity Latin America & the Caribbean" .
+
+<http://www.ldgi.org>
+  a foaf:Organization ;
+  foaf:homepage <http://www.ldgi.org> ;
+  foaf:name "Land Development & Governance Institute (LDGI) Kenya" .
+
+<http://www.uttaran.net>
+  a foaf:Organization ;
+  foaf:homepage <http://www.uttaran.net> ;
+  foaf:name "Uttaran Bangladesh" .
+
+<http://www.acode-u.org>
+  a foaf:Organization ;
+  foaf:homepage <http://www.acode-u.org> ;
+  foaf:name "Advocates Coalition for Development & Environment (ACODE) Uganda" .
+
+<http://www.icarda.org>
+  a foaf:Organization ;
+  foaf:homepage <http://www.icarda.org> ;
+  foaf:name "International Center for Agricultural Research in the Dry Areas (ICARDA)" .
+
+<http://mel.cgiar.org>
+  a foaf:Organization ;
+  foaf:homepage <http://mel.cgiar.org> ;
+  foaf:name "Monitoring, Evaluation and Learning Team (MEL)" .
