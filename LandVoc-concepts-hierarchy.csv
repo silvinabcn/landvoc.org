@@ -1,0 +1,734 @@
+land administration;;;;;http://aims.fao.org/aos/agrovoc/c_9000091
+;land documentation;;;;http://aims.fao.org/aos/agrovoc/c_dca4b380
+;;land records;;;http://aims.fao.org/aos/agrovoc/c_32a959b0
+;;sources (land administration);;;http://aims.fao.org/aos/agrovoc/c_10265135
+;;;spatial source;;http://aims.fao.org/aos/agrovoc/c_cf5b0fc7
+;;title deeds;;;http://aims.fao.org/aos/agrovoc/c_b769471e
+;land information systems;;;;http://aims.fao.org/aos/agrovoc/c_9000096
+;;cadastres;;;http://aims.fao.org/aos/agrovoc/c_1177
+;;;cadastral maps;;http://aims.fao.org/aos/agrovoc/c_fdee7675
+;;;parcel plan;;http://aims.fao.org/aos/agrovoc/c_2ee25bd9
+;;geographical information systems;;;http://aims.fao.org/aos/agrovoc/c_35131
+;;;scale;;http://aims.fao.org/aos/agrovoc/c_128d5eb6
+;;land register;;;http://aims.fao.org/aos/agrovoc/c_a72beecd
+;;;cadastral register;;http://aims.fao.org/aos/agrovoc/c_b4d51db0
+;;maps;;;http://aims.fao.org/aos/agrovoc/c_b43d8acf
+;land registration;;;;http://aims.fao.org/aos/agrovoc/c_9000098
+;;cadastral administration;;;http://aims.fao.org/aos/agrovoc/c_d774aa00
+;;deed registration;;;http://aims.fao.org/aos/agrovoc/c_6120d7bc
+;;land titling;;;http://aims.fao.org/aos/agrovoc/c_119678e7
+;;sporadic registration;;;http://aims.fao.org/aos/agrovoc/c_92fa245e
+;;systematic registration;;;http://aims.fao.org/aos/agrovoc/c_75bb8689
+;;Torrens system;;;http://aims.fao.org/aos/agrovoc/c_7017dc39
+;land surveying;;;;http://aims.fao.org/aos/agrovoc/c_3f55b7d6
+;;Land Administration Domain Model;;;http://aims.fao.org/aos/agrovoc/c_1abcaf51
+;;;basic administrative unit;;http://aims.fao.org/aos/agrovoc/c_3022da1f
+;;;boundaries;;http://aims.fao.org/aos/agrovoc/c_15686
+;;;;boundary face;http://aims.fao.org/aos/agrovoc/c_3122d115
+;;;;boundary face string;http://aims.fao.org/aos/agrovoc/c_c9ac54c9
+;;;face based spatial units;;http://aims.fao.org/aos/agrovoc/c_9e450562
+;;;points;;http://aims.fao.org/aos/agrovoc/c_b12823a4
+;;;spatial units;;http://aims.fao.org/aos/agrovoc/c_9df6243d
+;;;;levels;http://aims.fao.org/aos/agrovoc/c_976a1ab6
+;;;;parcels;http://aims.fao.org/aos/agrovoc/c_fdfbb37f
+;;land cover mapping;;;http://aims.fao.org/aos/agrovoc/c_9000094
+;;land use mapping;;;http://aims.fao.org/aos/agrovoc/c_9000100
+land equity;;;;;http://aims.fao.org/aos/agrovoc/c_4fad5356
+;gender equity;;;;http://aims.fao.org/aos/agrovoc/c_f29f3106
+;;gender equity in access to land;;;http://aims.fao.org/aos/agrovoc/c_1dfe5bfe
+;;rights in divorce;;;http://aims.fao.org/aos/agrovoc/c_b3372020
+;protection of minorities;;;;http://aims.fao.org/aos/agrovoc/c_6b2ca397
+;;discrimination;;;http://aims.fao.org/aos/agrovoc/c_331356
+;;equal rights;;;http://aims.fao.org/aos/agrovoc/c_bafa787a
+land governance;;;;;http://aims.fao.org/aos/agrovoc/c_aca7ac6d
+;corruption;;;;http://aims.fao.org/aos/agrovoc/c_28663
+;decentralization;;;;http://aims.fao.org/aos/agrovoc/c_2143
+;development;;;;http://aims.fao.org/aos/agrovoc/c_331049
+;;conflict of interest;;;http://aims.fao.org/aos/agrovoc/c_854e9e62
+;;post-conflict settings;;;http://aims.fao.org/aos/agrovoc/c_6cdf27e3
+;;poverty;;;http://aims.fao.org/aos/agrovoc/c_6151
+;;rural development;;;http://aims.fao.org/aos/agrovoc/c_6701
+;;sustainable development;;;http://aims.fao.org/aos/agrovoc/c_35332
+;eminent domain;;;;http://aims.fao.org/aos/agrovoc/c_c208d7f3
+;;expropriation;;;http://aims.fao.org/aos/agrovoc/c_1798
+;food security;;;;http://aims.fao.org/aos/agrovoc/c_10967
+;;hunger;;;http://aims.fao.org/aos/agrovoc/c_9be48a31
+;land law;;;;http://aims.fao.org/aos/agrovoc/c_573abb9f
+;;agrarian structure;;;http://aims.fao.org/aos/agrovoc/c_7193
+;;;agricultural and rural legislation;;http://aims.fao.org/aos/agrovoc/c_28633
+;;forest law;;;http://aims.fao.org/aos/agrovoc/c_8c59c597
+;;land inheritance rights;;;http://aims.fao.org/aos/agrovoc/c_70a14ab3
+;;land policies;;;http://aims.fao.org/aos/agrovoc/c_195
+;;property law;;;http://aims.fao.org/aos/agrovoc/c_da192f3f
+;land reform;;;;http://aims.fao.org/aos/agrovoc/c_4178
+;;agrarian reform;;;http://aims.fao.org/aos/agrovoc/c_196
+;;negotiated land reform;;;http://aims.fao.org/aos/agrovoc/c_f84a48c4
+;land use planning;;;;http://aims.fao.org/aos/agrovoc/c_37899
+;;building units;;;http://aims.fao.org/aos/agrovoc/c_ab3e3992
+;;land classification;;;http://aims.fao.org/aos/agrovoc/c_15991
+;;land distribution;;;http://aims.fao.org/aos/agrovoc/c_37734
+;;land readjustment;;;http://aims.fao.org/aos/agrovoc/c_57156ff8
+;;profiles;;;http://aims.fao.org/aos/agrovoc/c_c4457c2d
+;;rural planning;;;http://aims.fao.org/aos/agrovoc/c_6704
+;;urban planning;;;http://aims.fao.org/aos/agrovoc/c_37948
+;;utility networks;;;http://aims.fao.org/aos/agrovoc/c_c24a986b
+;;zoning;;;http://aims.fao.org/aos/agrovoc/c_36936
+;public participation;;;;http://aims.fao.org/aos/agrovoc/c_37623
+;rule of law;;;;http://aims.fao.org/aos/agrovoc/c_58d1d92e
+;;codification;;;http://aims.fao.org/aos/agrovoc/c_0eca1c57
+;;common law;;;http://aims.fao.org/aos/agrovoc/c_1783
+;;customary law;;;http://aims.fao.org/aos/agrovoc/c_10222
+;;Islamic law;;;http://aims.fao.org/aos/agrovoc/c_34fdb55c
+;;legal pluralism;;;http://aims.fao.org/aos/agrovoc/c_434cfdd6
+;;statute law;;;http://aims.fao.org/aos/agrovoc/c_86cb818a
+;urbanization;;;;http://aims.fao.org/aos/agrovoc/c_8088
+;;infrastructure;;;http://aims.fao.org/aos/agrovoc/c_26790
+;;rights to the city;;;http://aims.fao.org/aos/agrovoc/c_76109b15
+;;slum upgrading;;;http://aims.fao.org/aos/agrovoc/c_f1ddba0f
+;;social housing;;;http://aims.fao.org/aos/agrovoc/c_9ca080ca
+land management;;;;;http://aims.fao.org/aos/agrovoc/c_24866
+;environment;;;;http://aims.fao.org/aos/agrovoc/c_2593
+;;climate change;;;http://aims.fao.org/aos/agrovoc/c_1666
+;;desertification;;;http://aims.fao.org/aos/agrovoc/c_2204
+;;land degradation;;;http://aims.fao.org/aos/agrovoc/c_34823
+;;natural disasters;;;http://aims.fao.org/aos/agrovoc/c_10391
+;;resilience;;;http://aims.fao.org/aos/agrovoc/c_1374480530924
+;fisheries;;;;http://aims.fao.org/aos/agrovoc/c_2934
+;forestry;;;;http://aims.fao.org/aos/agrovoc/c_3055
+;;community forestry;;;http://aims.fao.org/aos/agrovoc/c_16532
+;;deforestation;;;http://aims.fao.org/aos/agrovoc/c_15590
+;;forest conservation;;;http://aims.fao.org/aos/agrovoc/c_1374158672853
+;;private forests;;;http://aims.fao.org/aos/agrovoc/c_1882e93f
+;;state forests;;;http://aims.fao.org/aos/agrovoc/c_14569
+;;urban forestry;;;http://aims.fao.org/aos/agrovoc/c_32620
+;land area;;;;http://aims.fao.org/aos/agrovoc/c_298db0d3
+;;abandoned land;;;http://aims.fao.org/aos/agrovoc/c_6
+;;arable land;;;http://aims.fao.org/aos/agrovoc/c_18948
+;;coastal area;;;http://aims.fao.org/aos/agrovoc/c_9000021
+;;common lands;;;http://aims.fao.org/aos/agrovoc/c_1782
+;;;communal territory;;http://aims.fao.org/aos/agrovoc/c_41b77c02
+;;farmland;;;http://aims.fao.org/aos/agrovoc/c_2808
+;;green belts;;;http://aims.fao.org/aos/agrovoc/c_37720
+;;indigenous lands;;;http://aims.fao.org/aos/agrovoc/c_86524ff8
+;;pastoral lands;;;http://aims.fao.org/aos/agrovoc/c_8e487587
+;;periurban areas;;;http://aims.fao.org/aos/agrovoc/c_9001015
+;;protected areas;;;http://aims.fao.org/aos/agrovoc/c_37952
+;;rural areas;;;http://aims.fao.org/aos/agrovoc/c_6699
+;;slums;;;http://aims.fao.org/aos/agrovoc/c_9001019
+;;territory;;;http://aims.fao.org/aos/agrovoc/c_a9e7dd7f
+;;unclaimed lands;;;http://aims.fao.org/aos/agrovoc/c_0e0e555b
+;;urban areas;;;http://aims.fao.org/aos/agrovoc/c_8085
+;;waste land;;;http://aims.fao.org/aos/agrovoc/c_16205
+;land cover;;;;http://aims.fao.org/aos/agrovoc/c_37897
+;;drylands;;;http://aims.fao.org/aos/agrovoc/c_ce82f76d
+;;forest land;;;http://aims.fao.org/aos/agrovoc/c_24843
+;;grasslands;;;http://aims.fao.org/aos/agrovoc/c_3366
+;;land cover change;;;http://aims.fao.org/aos/agrovoc/c_9000093
+;;rangelands;;;http://aims.fao.org/aos/agrovoc/c_6448
+;;urban land;;;http://aims.fao.org/aos/agrovoc/c_85688b48
+;;wetlands;;;http://aims.fao.org/aos/agrovoc/c_8371
+;land use;;;;http://aims.fao.org/aos/agrovoc/c_4182
+;;agricultural land management;;;http://aims.fao.org/aos/agrovoc/c_4bd6790a
+;;;farming systems;;http://aims.fao.org/aos/agrovoc/c_2807
+;;;;agroforestry systems;http://aims.fao.org/aos/agrovoc/c_330982
+;;;;agropastoral systems;http://aims.fao.org/aos/agrovoc/c_16112
+;;;;livestock;http://aims.fao.org/aos/agrovoc/c_4397
+;;;;peri-urban agriculture;http://aims.fao.org/aos/agrovoc/c_18389
+;;agriculture;;;http://aims.fao.org/aos/agrovoc/c_203
+;;forest management plans;;;http://aims.fao.org/aos/agrovoc/c_1374070277659
+;;grazing;;;http://aims.fao.org/aos/agrovoc/c_25243
+;;intensive land use;;;http://aims.fao.org/aos/agrovoc/c_36551
+;;land clearing;;;http://aims.fao.org/aos/agrovoc/c_1662
+;;land conservation;;;http://aims.fao.org/aos/agrovoc/c_34305
+;;land consolidation;;;http://aims.fao.org/aos/agrovoc/c_4173
+;;land improvement;;;http://aims.fao.org/aos/agrovoc/c_28717
+;;land productivity;;;http://aims.fao.org/aos/agrovoc/c_4176
+;;land restoration;;;http://aims.fao.org/aos/agrovoc/c_d50d4695
+;;land subdivision;;;http://aims.fao.org/aos/agrovoc/c_a79c0bb8
+;;land suitability;;;http://aims.fao.org/aos/agrovoc/c_15992
+;;land use change;;;http://aims.fao.org/aos/agrovoc/c_fac4b794
+;;mining;;;http://aims.fao.org/aos/agrovoc/c_49983
+;;nature reserves;;;http://aims.fao.org/aos/agrovoc/c_16141
+;;sustainable land management;;;http://aims.fao.org/aos/agrovoc/c_36580
+;;sustainable land use;;;http://aims.fao.org/aos/agrovoc/c_bdedf48c
+;natural resources;;;;http://aims.fao.org/aos/agrovoc/c_5091
+;;conflicts;;;http://aims.fao.org/aos/agrovoc/c_73599179
+;;land;;;http://aims.fao.org/aos/agrovoc/c_4172
+;;natural resources management;;;http://aims.fao.org/aos/agrovoc/c_9000115
+;;;biodiversity;;http://aims.fao.org/aos/agrovoc/c_33949
+;;water;;;http://aims.fao.org/aos/agrovoc/c_8309
+;;;water management;;http://aims.fao.org/aos/agrovoc/c_8320
+land markets;;;;;http://aims.fao.org/aos/agrovoc/c_4175
+;land acquisitions;;;;http://aims.fao.org/aos/agrovoc/c_89d3dcbb
+;;alienation (land);;;http://aims.fao.org/aos/agrovoc/c_ceb73ce1
+;;assignment (land);;;http://aims.fao.org/aos/agrovoc/c_8c6882ab
+;;compensation;;;http://aims.fao.org/aos/agrovoc/c_1791
+;;;disturbance;;http://aims.fao.org/aos/agrovoc/c_cbe171b4
+;;compulsory acquisitions;;;http://aims.fao.org/aos/agrovoc/c_95fedfc9
+;;concession (land);;;http://aims.fao.org/aos/agrovoc/c_357653f9
+;;dowry (land);;;http://aims.fao.org/aos/agrovoc/c_f7cf8606
+;;encroachment;;;http://aims.fao.org/aos/agrovoc/c_a245096c
+;;government purchases;;;http://aims.fao.org/aos/agrovoc/c_b3864149
+;;land allocation;;;http://aims.fao.org/aos/agrovoc/c_1464c114
+;;lineage;;;http://aims.fao.org/aos/agrovoc/c_29225
+;;;matrilineal;;http://aims.fao.org/aos/agrovoc/c_a0982198
+;;;patrilineal;;http://aims.fao.org/aos/agrovoc/c_85dfd05c
+;;prescription;;;http://aims.fao.org/aos/agrovoc/c_f86e1a09
+;;regularization of illegal occupation;;;http://aims.fao.org/aos/agrovoc/c_3b50d6b6
+;;trust;;;http://aims.fao.org/aos/agrovoc/c_0cc6c485
+;land economics;;;;http://aims.fao.org/aos/agrovoc/c_25195
+;;adjudication;;;http://aims.fao.org/aos/agrovoc/c_ee93bbbe
+;;capital value (land);;;http://aims.fao.org/aos/agrovoc/c_a9966ac9
+;;land delivery;;;http://aims.fao.org/aos/agrovoc/c_b317eba8
+;;land speculation;;;http://aims.fao.org/aos/agrovoc/c_15d85712
+;;land transactions;;;http://aims.fao.org/aos/agrovoc/c_a4f67d48
+;;land transfers;;;http://aims.fao.org/aos/agrovoc/c_4181
+;;pre-emption rights;;;http://aims.fao.org/aos/agrovoc/c_9c081fdc
+;;transaction costs;;;http://aims.fao.org/aos/agrovoc/c_aa48855b
+;land investments;;;;http://aims.fao.org/aos/agrovoc/c_9a4f48b4
+;;estate management;;;http://aims.fao.org/aos/agrovoc/c_21323863
+;;foreign investment;;;http://aims.fao.org/aos/agrovoc/c_3043
+;;investment funds;;;http://aims.fao.org/aos/agrovoc/c_0d7ef890
+;;land deals;;;http://aims.fao.org/aos/agrovoc/c_666dbc26
+;;land grabbing;;;http://aims.fao.org/aos/agrovoc/c_cc39a497
+;;responsible investment;;;http://aims.fao.org/aos/agrovoc/c_864ce3fa
+;land-based financing;;;;http://aims.fao.org/aos/agrovoc/c_955981b8
+;;collateral (land);;;http://aims.fao.org/aos/agrovoc/c_931da360
+;;land loans;;;http://aims.fao.org/aos/agrovoc/c_8b6d895f
+;;land rent;;;http://aims.fao.org/aos/agrovoc/c_7bea427c
+;;land tax;;;http://aims.fao.org/aos/agrovoc/c_4180
+;;;inheritance tax;;http://aims.fao.org/aos/agrovoc/c_3870
+;;land valuation;;;http://aims.fao.org/aos/agrovoc/c_72dd6860
+;;land value capture;;;http://aims.fao.org/aos/agrovoc/c_3c069d3e
+land rights;;;;;http://aims.fao.org/aos/agrovoc/c_37898
+;human settlements;;;;http://aims.fao.org/aos/agrovoc/c_4075759d
+;;displacement;;;http://aims.fao.org/aos/agrovoc/c_65c7772b
+;;dispossession;;;http://aims.fao.org/aos/agrovoc/c_781deefb
+;;eviction;;;http://aims.fao.org/aos/agrovoc/c_0b88a82c
+;;informal settlements;;;http://aims.fao.org/aos/agrovoc/c_ba3b2ea7
+;;landlessness;;;http://aims.fao.org/aos/agrovoc/c_24403
+;;migration;;;http://aims.fao.org/aos/agrovoc/c_4822
+;;occupation;;;http://aims.fao.org/aos/agrovoc/c_9044ce39
+;;;illegal occupation;;http://aims.fao.org/aos/agrovoc/c_8dd43c79
+;;resettlement;;;http://aims.fao.org/aos/agrovoc/c_3836a585
+;land access;;;;http://aims.fao.org/aos/agrovoc/c_9000090
+;;control rights;;;http://aims.fao.org/aos/agrovoc/c_7a25baee
+;;management rights;;;http://aims.fao.org/aos/agrovoc/c_862db225
+;;right of access;;;http://aims.fao.org/aos/agrovoc/c_6604
+;;right of first occupancy;;;http://aims.fao.org/aos/agrovoc/c_9904d265
+;;rights of clearance;;;http://aims.fao.org/aos/agrovoc/c_62487b4a
+;;use rights;;;http://aims.fao.org/aos/agrovoc/c_945c9e82
+;;usufruct;;;http://aims.fao.org/aos/agrovoc/c_28784
+;;waste (abuse);;;http://aims.fao.org/aos/agrovoc/c_ecf20c17
+;land conflicts;;;;http://aims.fao.org/aos/agrovoc/c_e236b2b1
+;;land dispute;;;http://aims.fao.org/aos/agrovoc/c_1ada969a
+;;;independent experts;;http://aims.fao.org/aos/agrovoc/c_60fbd8f7
+;;;land dispute resolution;;http://aims.fao.org/aos/agrovoc/c_6f79699c
+;land contracts;;;;http://aims.fao.org/aos/agrovoc/c_15d674ca
+;;contract farming;;;http://aims.fao.org/aos/agrovoc/c_1839
+;;grazing contracts;;;http://aims.fao.org/aos/agrovoc/c_bac66d94
+;;leases;;;http://aims.fao.org/aos/agrovoc/c_4240
+;;;farm tenancy;;http://aims.fao.org/aos/agrovoc/c_dec8141f
+;;manure contract;;;http://aims.fao.org/aos/agrovoc/c_6b8a1f45
+;land tenure;;;;http://aims.fao.org/aos/agrovoc/c_12069
+;;common rights;;;http://aims.fao.org/aos/agrovoc/c_de048871
+;;community land rights;;;http://aims.fao.org/aos/agrovoc/c_ff890f6b
+;;continuum of land rights;;;http://aims.fao.org/aos/agrovoc/c_ffd74ae5
+;;customary land rights;;;http://aims.fao.org/aos/agrovoc/c_cd44c0b3
+;;grazing land rights;;;http://aims.fao.org/aos/agrovoc/c_97241aeb
+;;group tenure arrangements;;;http://aims.fao.org/aos/agrovoc/c_de0f1771
+;;;commons;;http://aims.fao.org/aos/agrovoc/c_778a14cf
+;;housing rights;;;http://aims.fao.org/aos/agrovoc/c_a1b5abd0
+;;indigenous land rights;;;http://aims.fao.org/aos/agrovoc/c_d42b49e7
+;;land ownership;;;http://aims.fao.org/aos/agrovoc/c_28718
+;;;co-ownership rights;;http://aims.fao.org/aos/agrovoc/c_599d2e5c
+;;;collective ownership;;http://aims.fao.org/aos/agrovoc/c_29157
+;;;communal ownership;;http://aims.fao.org/aos/agrovoc/c_9024771d
+;;;private ownership;;http://aims.fao.org/aos/agrovoc/c_6192
+;;;public ownership;;http://aims.fao.org/aos/agrovoc/c_6350
+;;land tenure systems;;;http://aims.fao.org/aos/agrovoc/c_66afb052
+;;;customary tenure;;http://aims.fao.org/aos/agrovoc/c_56c34d4d
+;;;formal tenure;;http://aims.fao.org/aos/agrovoc/c_dfbaecdf
+;;;freehold;;http://aims.fao.org/aos/agrovoc/c_b972e0ea
+;;;indigenous tenure;;http://aims.fao.org/aos/agrovoc/c_a291ae58
+;;;informal tenure regimes;;http://aims.fao.org/aos/agrovoc/c_bd898e7e
+;;;leaseholds;;http://aims.fao.org/aos/agrovoc/c_d80e0cd0
+;;;open access (land);;http://aims.fao.org/aos/agrovoc/c_51a39a94
+;;;religious tenure regimes;;http://aims.fao.org/aos/agrovoc/c_3ba724f1
+;;;statutory tenure;;http://aims.fao.org/aos/agrovoc/c_dc5739ab
+;;orphans land rights;;;http://aims.fao.org/aos/agrovoc/c_e5f9b786
+;;pastoral land rights;;;http://aims.fao.org/aos/agrovoc/c_4d6b6100
+;;riparian rights;;;http://aims.fao.org/aos/agrovoc/c_a6fdfb0e
+;;tenant's rights;;;http://aims.fao.org/aos/agrovoc/c_28775
+;;tenure insecurity;;;http://aims.fao.org/aos/agrovoc/c_f417a239
+;;tenure regularization;;;http://aims.fao.org/aos/agrovoc/c_cc3d0c47
+;;tenure security;;;http://aims.fao.org/aos/agrovoc/c_7fc44e33
+;;;perception of tenure security;;http://aims.fao.org/aos/agrovoc/c_6e4e50f1
+;;water rights;;;http://aims.fao.org/aos/agrovoc/c_16062
+;property;;;;http://aims.fao.org/aos/agrovoc/c_13609
+;;common property;;;http://aims.fao.org/aos/agrovoc/c_9000022
+;;informal property;;;http://aims.fao.org/aos/agrovoc/c_1d4ea7db
+;;private property;;;http://aims.fao.org/aos/agrovoc/c_9000082
+;;property rights;;;http://aims.fao.org/aos/agrovoc/c_37942
+;;;marital property rights;;http://aims.fao.org/aos/agrovoc/c_64d8574a
+;;servient tenement;;;http://aims.fao.org/aos/agrovoc/c_31e765ad
+;;state property;;;http://aims.fao.org/aos/agrovoc/c_22d01a32
+land stakeholders;;;;;http://aims.fao.org/aos/agrovoc/c_4374c6c9
+;activities;;;;http://aims.fao.org/aos/agrovoc/c_330834
+;;advocacy;;;http://aims.fao.org/aos/agrovoc/c_1410424255662
+;;assessment;;;http://aims.fao.org/aos/agrovoc/c_330990
+;;capacity building;;;http://aims.fao.org/aos/agrovoc/c_37836
+;;legal empowerment;;;http://aims.fao.org/aos/agrovoc/c_c1543349
+;;monitoring;;;http://aims.fao.org/aos/agrovoc/c_4911
+;;research;;;http://aims.fao.org/aos/agrovoc/c_6513
+;families;;;;http://aims.fao.org/aos/agrovoc/c_2785
+;farmers;;;;http://aims.fao.org/aos/agrovoc/c_2805
+;;smallholders;;;http://aims.fao.org/aos/agrovoc/c_14343
+;;tenant farmers;;;http://aims.fao.org/aos/agrovoc/c_f73955fb
+;government;;;;http://aims.fao.org/aos/agrovoc/c_11230
+;households;;;;http://aims.fao.org/aos/agrovoc/c_3676
+;indigenous peoples;;;;http://aims.fao.org/aos/agrovoc/c_331524
+;land practitioners;;;;http://aims.fao.org/aos/agrovoc/c_4cae1a3d
+;;development agencies;;;http://aims.fao.org/aos/agrovoc/c_2224
+;;farmers associations;;;http://aims.fao.org/aos/agrovoc/c_2806
+;;grassroots organizations;;;http://aims.fao.org/aos/agrovoc/c_50226
+;;notary;;;http://aims.fao.org/aos/agrovoc/c_72efbdb8
+;;surveyors;;;http://aims.fao.org/aos/agrovoc/c_26e30c73
+;land rights activists;;;;http://aims.fao.org/aos/agrovoc/c_e6067b76
+;landowners;;;;http://aims.fao.org/aos/agrovoc/c_4184
+;local communities;;;;http://aims.fao.org/aos/agrovoc/c_9000107
+;non indigenous peoples;;;;http://aims.fao.org/aos/agrovoc/c_28e0dafa
+;pastoralists;;;;http://aims.fao.org/aos/agrovoc/c_653f04fe
+;private sector;;;;http://aims.fao.org/aos/agrovoc/c_32525
+;;extractive industries;;;http://aims.fao.org/aos/agrovoc/c_5d3b8015
+;;palm oil industries;;;http://aims.fao.org/aos/agrovoc/c_ccc27fe2
+;rural population;;;;http://aims.fao.org/aos/agrovoc/c_6705
+;squatters;;;;http://aims.fao.org/aos/agrovoc/c_34ea1b1e
+;tenants;;;;http://aims.fao.org/aos/agrovoc/c_330886
+;urban population;;;;http://aims.fao.org/aos/agrovoc/c_8086
+;youth;;;;http://aims.fao.org/aos/agrovoc/c_8491
+;women;;;;http://aims.fao.org/aos/agrovoc/c_8420
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
