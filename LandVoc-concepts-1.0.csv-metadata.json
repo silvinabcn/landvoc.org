@@ -38,6 +38,7 @@
         "primaryKey": "Agrovoc Unique Identifier",
         "columns": [{
                 "name": "English",
+                "lang": "en",
                 "titles": {
                     "@value": "Concept label in English",
                     "@language": "en"
@@ -50,6 +51,7 @@
                 "propertyUrl": "skos:prefLabel"
             }, {
                 "name": "Spanish",
+                "lang": "es",
                 "titles": {
                     "@value": "Concept label in Spanish",
                     "@language": "en"
@@ -62,6 +64,7 @@
                 "propertyUrl": "skos:prefLabel"
             }, {
                 "name": "French",
+                "lang": "fr",
                 "titles": {
                     "@value": "Concept label in French",
                     "@language": "en"
@@ -74,6 +77,7 @@
                 "propertyUrl": "skos:prefLabel"
             }, {
                 "name": "Portuguese",
+                "lang": "pt",
                 "titles": {
                     "@value": "Concept label in Portuguese",
                     "@language": "en"
