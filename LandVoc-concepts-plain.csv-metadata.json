@@ -1,8 +1,8 @@
 {
   "@context": {"@vocab": "http://www.w3.org/ns/csvw#"},
-  "@type": "Table", 
+  "@type": "Table",
   "url": "LandVoc-concepts-plain.csv",
-  "dc:creator": ["Lisette Meij", "Carlos Tejo-Alonso", "Vittoria Ruggiero"], 
+  "dc:creator": ["Lisette Meij", "Carlos Tejo-Alonso", "Vittoria Ruggiero"],
   "dc:title": {
     "@value": "LandVoc concepts",
     "@language": "en"},
@@ -16,7 +16,7 @@
     "primaryKey": "Agrovoc Unique Identifier",
     "columns": [
       {
-        "name": "English", 
+        "name": "English",
 		"titles": {
             "@value": "Concept label in English",
             "@language": "en"
@@ -25,11 +25,11 @@
             "@value": "The English label of a concept",
             "@language": "en"
 		},
-        "datatype": "string", 
+        "datatype": "string",
         "propertyUrl": "skos:prefLabel"
       },
       {
-        "name": "Spanish", 
+        "name": "Spanish",
 		"titles": {
             "@value": "Concept label in Spanish",
             "@language": "en"
@@ -38,11 +38,11 @@
             "@value": "The Spanish label of a concept",
             "@language": "en"
 		},
-        "datatype": "string", 
+        "datatype": "string",
         "propertyUrl": "skos:prefLabel"
       },
       {
-        "name": "French", 
+        "name": "French",
 		"titles": {
             "@value": "Concept label in French",
             "@language": "en"
@@ -51,11 +51,11 @@
             "@value": "The French label of a concept",
             "@language": "en"
 		},
-        "datatype": "string", 
+        "datatype": "string",
         "propertyUrl": "skos:prefLabel"
       },
       {
-        "name": "Portuguese", 
+        "name": "Portuguese",
 		"titles": {
             "@value": "Concept label in Portuguese",
             "@language": "en"
@@ -64,7 +64,7 @@
             "@value": "The Portuguese label of a concept",
             "@language": "en"
 		},
-        "datatype": "string", 
+        "datatype": "string",
         "propertyUrl": "skos:prefLabel"
       },
       {
@@ -77,6 +77,7 @@
             "@value": "The AGROVOC URI of the LandVoc concept",
             "@language": "en"
 		},
+        "datatype": "anyURI",
         "required": true
       }
     ]
