@@ -1,2 +1,7 @@
 RewriteEngine On
 RewriteRule ^landvoc$ void.ttl [PT]
+
+AddCharset UTF-8 .json
+AddCharset UTF-8 .csv
+AddCharset UTF-8 .ttl
+AddCharset UTF-8 .rdf
