@@ -1,7 +1,7 @@
 {
   "@context": {"@vocab": "http://www.w3.org/ns/csvw#"},
   "@type": "Table", 
-  "url": "LandVoc-concepts.csv",
+  "url": "LandVoc-concepts-1.0.csv",
   "dc:creator": ["Lisette Meij", "Carlos Tejo-Alonso"], 
   "dc:title": {
     "@value": "LandVoc concepts",
