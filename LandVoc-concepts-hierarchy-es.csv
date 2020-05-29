@@ -1,0 +1,310 @@
+Administración de tierras;;;;;http://aims.fao.org/aos/agrovoc/c_9000091
+;Documentación de tierras;;;;http://aims.fao.org/aos/agrovoc/c_dca4b380
+;;registros de las relaciones de tenencia;;;http://aims.fao.org/aos/agrovoc/c_32a959b0
+;;Fuente (administración de tierras);;;http://aims.fao.org/aos/agrovoc/c_10265135
+;;;Fuente espacial;;http://aims.fao.org/aos/agrovoc/c_cf5b0fc7
+;;titulo de propriedad;;;http://aims.fao.org/aos/agrovoc/c_b769471e
+;Sistemas de información de tierras;;;;http://aims.fao.org/aos/agrovoc/c_9000096
+;;Catastros;;;http://aims.fao.org/aos/agrovoc/c_1177
+;;;Mapas catastrales;;http://aims.fao.org/aos/agrovoc/c_fdee7675
+;;;plan parcelario;;http://aims.fao.org/aos/agrovoc/c_2ee25bd9
+;;Sistemas de información geográfica;;;http://aims.fao.org/aos/agrovoc/c_35131
+;;;escala;;http://aims.fao.org/aos/agrovoc/c_128d5eb6
+;;Registro de propiedad;;;http://aims.fao.org/aos/agrovoc/c_a72beecd
+;;;registro catastral;;http://aims.fao.org/aos/agrovoc/c_b4d51db0
+;;Mapa;;;http://aims.fao.org/aos/agrovoc/c_b43d8acf
+;Registro de tierras;;;;http://aims.fao.org/aos/agrovoc/c_9000098
+;;administración catastral;;;http://aims.fao.org/aos/agrovoc/c_d774aa00
+;;Registro de escrituras;;;http://aims.fao.org/aos/agrovoc/c_6120d7bc
+;;Titulación de la tierra;;;http://aims.fao.org/aos/agrovoc/c_119678e7
+;;Registro esporádico;;;http://aims.fao.org/aos/agrovoc/c_92fa245e
+;;Registro sistemático;;;http://aims.fao.org/aos/agrovoc/c_75bb8689
+;;sistema Torrens;;;http://aims.fao.org/aos/agrovoc/c_7017dc39
+;Agrimensura;;;;http://aims.fao.org/aos/agrovoc/c_3f55b7d6
+;;Modelo para el ámbito de la administración del territorio;;;http://aims.fao.org/aos/agrovoc/c_1abcaf51
+;;;Unidades administrativas básicas;;http://aims.fao.org/aos/agrovoc/c_3022da1f
+;;;Límite;;http://aims.fao.org/aos/agrovoc/c_15686
+;;;;Linde;http://aims.fao.org/aos/agrovoc/c_3122d115
+;;;;Cuerda de linde;http://aims.fao.org/aos/agrovoc/c_c9ac54c9
+;;;unidades espaciales basadas en superficie;;http://aims.fao.org/aos/agrovoc/c_9e450562
+;;;Punto;;http://aims.fao.org/aos/agrovoc/c_b12823a4
+;;;Unidades espaciales;;http://aims.fao.org/aos/agrovoc/c_9df6243d
+;;;;Nivel;http://aims.fao.org/aos/agrovoc/c_976a1ab6
+;;;;Parcelas de tierra;http://aims.fao.org/aos/agrovoc/c_fdfbb37f
+;;Cartografía de la cubierta vegetal;;;http://aims.fao.org/aos/agrovoc/c_9000094
+;;Cartografía del uso de la tierra;;;http://aims.fao.org/aos/agrovoc/c_9000100
+equidad en la tierra;;;;;http://aims.fao.org/aos/agrovoc/c_4fad5356
+;Equidad de género;;;;http://aims.fao.org/aos/agrovoc/c_f29f3106
+;;Equidad de género en el acceso a la tierra;;;http://aims.fao.org/aos/agrovoc/c_1dfe5bfe
+;;Derechos en el divorcio;;;http://aims.fao.org/aos/agrovoc/c_b3372020
+;Protección de las minorías;;;;http://aims.fao.org/aos/agrovoc/c_6b2ca397
+;;Discriminación;;;http://aims.fao.org/aos/agrovoc/c_331356
+;;Igualdad de derechos;;;http://aims.fao.org/aos/agrovoc/c_bafa787a
+Gobernanza de la tierra;;;;;http://aims.fao.org/aos/agrovoc/c_aca7ac6d
+;Corrupción;;;;http://aims.fao.org/aos/agrovoc/c_28663
+;Descentralización;;;;http://aims.fao.org/aos/agrovoc/c_2143
+;Desarrollo;;;;http://aims.fao.org/aos/agrovoc/c_331049
+;;conflicto de interés;;;http://aims.fao.org/aos/agrovoc/c_854e9e62
+;;Escenarios posconflictos;;;http://aims.fao.org/aos/agrovoc/c_6cdf27e3
+;;Pobreza;;;http://aims.fao.org/aos/agrovoc/c_6151
+;;Desarrollo rural;;;http://aims.fao.org/aos/agrovoc/c_6701
+;;Desarrollo sostenible;;;http://aims.fao.org/aos/agrovoc/c_35332
+;dominio eminente;;;;http://aims.fao.org/aos/agrovoc/c_c208d7f3
+;;Expropiación;;;http://aims.fao.org/aos/agrovoc/c_1798
+;Seguridad alimentaria;;;;http://aims.fao.org/aos/agrovoc/c_10967
+;;Hambre;;;http://aims.fao.org/aos/agrovoc/c_9be48a31
+;derecho agrario;;;;http://aims.fao.org/aos/agrovoc/c_573abb9f
+;;Estructura agraria;;;http://aims.fao.org/aos/agrovoc/c_7193
+;;;Legislación agraria;;http://aims.fao.org/aos/agrovoc/c_28633
+;;legislación forestal;;;http://aims.fao.org/aos/agrovoc/c_8c59c597
+;;derechos de herencia sobre la tierra;;;http://aims.fao.org/aos/agrovoc/c_70a14ab3
+;;Política agraria;;;http://aims.fao.org/aos/agrovoc/c_195
+;;derecho inmobiliario;;;http://aims.fao.org/aos/agrovoc/c_da192f3f
+;Reforma de la tenencia de la tierra;;;;http://aims.fao.org/aos/agrovoc/c_4178
+;;Reforma agraria;;;http://aims.fao.org/aos/agrovoc/c_196
+;;reforma negociada de la tenencia de la tierra;;;http://aims.fao.org/aos/agrovoc/c_f84a48c4
+;Ordenación territorial;;;;http://aims.fao.org/aos/agrovoc/c_37899
+;;Unidades de edificación;;;http://aims.fao.org/aos/agrovoc/c_ab3e3992
+;;Clasificación de tierras;;;http://aims.fao.org/aos/agrovoc/c_15991
+;;Distribución de tierras;;;http://aims.fao.org/aos/agrovoc/c_37734
+;;Reajuste de tierras;;;http://aims.fao.org/aos/agrovoc/c_57156ff8
+;;Perfil;;;http://aims.fao.org/aos/agrovoc/c_c4457c2d
+;;Planificación rural;;;http://aims.fao.org/aos/agrovoc/c_6704
+;;Planificación urbana;;;http://aims.fao.org/aos/agrovoc/c_37948
+;;Red de servicios públicos;;;http://aims.fao.org/aos/agrovoc/c_c24a986b
+;;Zonificación;;;http://aims.fao.org/aos/agrovoc/c_36936
+;Participación pública;;;;http://aims.fao.org/aos/agrovoc/c_37623
+;Estado de derecho;;;;http://aims.fao.org/aos/agrovoc/c_58d1d92e
+;;codificación;;;http://aims.fao.org/aos/agrovoc/c_0eca1c57
+;;Derecho común;;;http://aims.fao.org/aos/agrovoc/c_1783
+;;Derecho consuetudinario;;;http://aims.fao.org/aos/agrovoc/c_10222
+;;Ley islámica;;;http://aims.fao.org/aos/agrovoc/c_34fdb55c
+;;Pluralismo legal;;;http://aims.fao.org/aos/agrovoc/c_434cfdd6
+;;derecho escrito;;;http://aims.fao.org/aos/agrovoc/c_86cb818a
+;Urbanización;;;;http://aims.fao.org/aos/agrovoc/c_8088
+;;Infraestructura;;;http://aims.fao.org/aos/agrovoc/c_26790
+;;Derechos a la ciudad;;;http://aims.fao.org/aos/agrovoc/c_76109b15
+;;Mejoramiento de barriadas;;;http://aims.fao.org/aos/agrovoc/c_f1ddba0f
+;;Vivienda social;;;http://aims.fao.org/aos/agrovoc/c_9ca080ca
+Ordenación de tierras;;;;;http://aims.fao.org/aos/agrovoc/c_24866
+;Medio ambiente;;;;http://aims.fao.org/aos/agrovoc/c_2593
+;;Cambio climático;;;http://aims.fao.org/aos/agrovoc/c_1666
+;;Desertificación;;;http://aims.fao.org/aos/agrovoc/c_2204
+;;Degradación de tierras;;;http://aims.fao.org/aos/agrovoc/c_34823
+;;Desastres naturales;;;http://aims.fao.org/aos/agrovoc/c_10391
+;;Resiliencia;;;http://aims.fao.org/aos/agrovoc/c_1374480530924
+;Pesca;;;;http://aims.fao.org/aos/agrovoc/c_2934
+;Ciencias forestales;;;;http://aims.fao.org/aos/agrovoc/c_3055
+;;silvicultura comunitaria;;;http://aims.fao.org/aos/agrovoc/c_16532
+;;Deforestación;;;http://aims.fao.org/aos/agrovoc/c_15590
+;;conservación de montes;;;http://aims.fao.org/aos/agrovoc/c_1374158672853
+;;bosques privados;;;http://aims.fao.org/aos/agrovoc/c_1882e93f
+;;Bosques estatales;;;http://aims.fao.org/aos/agrovoc/c_14569
+;;arboricultura urbana;;;http://aims.fao.org/aos/agrovoc/c_32620
+;área de tierra;;;;http://aims.fao.org/aos/agrovoc/c_298db0d3
+;;Tierras abandonadas;;;http://aims.fao.org/aos/agrovoc/c_6
+;;Tierras arables;;;http://aims.fao.org/aos/agrovoc/c_18948
+;;Area costera;;;http://aims.fao.org/aos/agrovoc/c_9000021
+;;Tierras comunales;;;http://aims.fao.org/aos/agrovoc/c_1782
+;;;territorio comunal;;http://aims.fao.org/aos/agrovoc/c_41b77c02
+;;Tierras agrícolas;;;http://aims.fao.org/aos/agrovoc/c_2808
+;;Zonas verdes;;;http://aims.fao.org/aos/agrovoc/c_37720
+;;tierras indígenas;;;http://aims.fao.org/aos/agrovoc/c_86524ff8
+;;tierras de pastoreo;;;http://aims.fao.org/aos/agrovoc/c_8e487587
+;;Áreas periurbanas;;;http://aims.fao.org/aos/agrovoc/c_9001015
+;;Zonas protegidas;;;http://aims.fao.org/aos/agrovoc/c_37952
+;;Zonas rurales;;;http://aims.fao.org/aos/agrovoc/c_6699
+;;Suburbio;;;http://aims.fao.org/aos/agrovoc/c_9001019
+;;territorio;;;http://aims.fao.org/aos/agrovoc/c_a9e7dd7f
+;;baldíos;;;http://aims.fao.org/aos/agrovoc/c_0e0e555b
+;;Zonas urbanas;;;http://aims.fao.org/aos/agrovoc/c_8085
+;;Eriales;;;http://aims.fao.org/aos/agrovoc/c_16205
+;cobertura de suelos;;;;http://aims.fao.org/aos/agrovoc/c_37897
+;;Tierras de secano;;;http://aims.fao.org/aos/agrovoc/c_ce82f76d
+;;tierras forestales;;;http://aims.fao.org/aos/agrovoc/c_24843
+;;Praderas;;;http://aims.fao.org/aos/agrovoc/c_3366
+;;Alteración de la cubierta vegetal;;;http://aims.fao.org/aos/agrovoc/c_9000093
+;;Tierras de pastos;;;http://aims.fao.org/aos/agrovoc/c_6448
+;;Tierra urbana;;;http://aims.fao.org/aos/agrovoc/c_85688b48
+;;Tierras húmedas;;;http://aims.fao.org/aos/agrovoc/c_8371
+;Utilización de la tierra;;;;http://aims.fao.org/aos/agrovoc/c_4182
+;;gestión de tierras agricolas;;;http://aims.fao.org/aos/agrovoc/c_4bd6790a
+;;;Sistemas de explotación;;http://aims.fao.org/aos/agrovoc/c_2807
+;;;;sistemas agroforestales;http://aims.fao.org/aos/agrovoc/c_330982
+;;;;Sistemas agropascícolas;http://aims.fao.org/aos/agrovoc/c_16112
+;;;;Ganado;http://aims.fao.org/aos/agrovoc/c_4397
+;;;;Agricultura peri urbana;http://aims.fao.org/aos/agrovoc/c_18389
+;;Agricultura;;;http://aims.fao.org/aos/agrovoc/c_203
+;;planes de ordenación forestal;;;http://aims.fao.org/aos/agrovoc/c_1374070277659
+;;Pastoreo;;;http://aims.fao.org/aos/agrovoc/c_25243
+;;Utilización intensiva de la tierra;;;http://aims.fao.org/aos/agrovoc/c_36551
+;;Desmonte;;;http://aims.fao.org/aos/agrovoc/c_1662
+;;Conservación de tierras;;;http://aims.fao.org/aos/agrovoc/c_34305
+;;Concentración parcelaria;;;http://aims.fao.org/aos/agrovoc/c_4173
+;;Mejora de la tierra;;;http://aims.fao.org/aos/agrovoc/c_28717
+;;Productividad de la tierra;;;http://aims.fao.org/aos/agrovoc/c_4176
+;;Restauración de tierras;;;http://aims.fao.org/aos/agrovoc/c_d50d4695
+;;Subdivisión de la tierra;;;http://aims.fao.org/aos/agrovoc/c_a79c0bb8
+;;Vocación de la tierra;;;http://aims.fao.org/aos/agrovoc/c_15992
+;;Cambio de uso de la tierra;;;http://aims.fao.org/aos/agrovoc/c_fac4b794
+;;minería;;;http://aims.fao.org/aos/agrovoc/c_49983
+;;Reservas naturales;;;http://aims.fao.org/aos/agrovoc/c_16141
+;;Ordenación de tierras sostenible;;;http://aims.fao.org/aos/agrovoc/c_36580
+;;Uso sostenible de la tierra;;;http://aims.fao.org/aos/agrovoc/c_bdedf48c
+;Recursos naturales;;;;http://aims.fao.org/aos/agrovoc/c_5091
+;;Conflictos;;;http://aims.fao.org/aos/agrovoc/c_73599179
+;;Tierras;;;http://aims.fao.org/aos/agrovoc/c_4172
+;;ordenación de recursos naturales;;;http://aims.fao.org/aos/agrovoc/c_9000115
+;;;Biodiversidad;;http://aims.fao.org/aos/agrovoc/c_33949
+;;Agua;;;http://aims.fao.org/aos/agrovoc/c_8309
+;;;Ordenación de aguas;;http://aims.fao.org/aos/agrovoc/c_8320
+Mercado de tierras;;;;;http://aims.fao.org/aos/agrovoc/c_4175
+;adquisiciones de tierras;;;;http://aims.fao.org/aos/agrovoc/c_89d3dcbb
+;;enajenación (de la tierra);;;http://aims.fao.org/aos/agrovoc/c_ceb73ce1
+;;cesión del arrendamiento;;;http://aims.fao.org/aos/agrovoc/c_8c6882ab
+;;Indemnización;;;http://aims.fao.org/aos/agrovoc/c_1791
+;;;reclamación de indemnización;;http://aims.fao.org/aos/agrovoc/c_cbe171b4
+;;Adquisición obligatoria;;;http://aims.fao.org/aos/agrovoc/c_95fedfc9
+;;concesión (fundo);;;http://aims.fao.org/aos/agrovoc/c_357653f9
+;;dote (tierra);;;http://aims.fao.org/aos/agrovoc/c_f7cf8606
+;;invasión;;;http://aims.fao.org/aos/agrovoc/c_a245096c
+;;Compras gubernamentales;;;http://aims.fao.org/aos/agrovoc/c_b3864149
+;;Asignación de tierras;;;http://aims.fao.org/aos/agrovoc/c_1464c114
+;;Linaje;;;http://aims.fao.org/aos/agrovoc/c_29225
+;;;matrilineal;;http://aims.fao.org/aos/agrovoc/c_a0982198
+;;;patrilineal;;http://aims.fao.org/aos/agrovoc/c_85dfd05c
+;;prescripción;;;http://aims.fao.org/aos/agrovoc/c_f86e1a09
+;;regularización de ocupación;;;http://aims.fao.org/aos/agrovoc/c_3b50d6b6
+;;Fideicomiso;;;http://aims.fao.org/aos/agrovoc/c_0cc6c485
+;Economía de la tierra;;;;http://aims.fao.org/aos/agrovoc/c_25195
+;;Adjudicación;;;http://aims.fao.org/aos/agrovoc/c_ee93bbbe
+;;valor de capital (tierra);;;http://aims.fao.org/aos/agrovoc/c_a9966ac9
+;;Entrega de tierra;;;http://aims.fao.org/aos/agrovoc/c_b317eba8
+;;Especulación de tierras;;;http://aims.fao.org/aos/agrovoc/c_15d85712
+;;Transacciones de tierras;;;http://aims.fao.org/aos/agrovoc/c_a4f67d48
+;;Asignación de tierras;;;http://aims.fao.org/aos/agrovoc/c_4181
+;;derechos de prelación;;;http://aims.fao.org/aos/agrovoc/c_9c081fdc
+;;costos de transacción;;;http://aims.fao.org/aos/agrovoc/c_aa48855b
+;inversiones en tierras;;;;http://aims.fao.org/aos/agrovoc/c_9a4f48b4
+;;gestión de bienes;;;http://aims.fao.org/aos/agrovoc/c_21323863
+;;Inversiones extranjeras;;;http://aims.fao.org/aos/agrovoc/c_3043
+;;Fondos de inversión;;;http://aims.fao.org/aos/agrovoc/c_0d7ef890
+;;Negocios de tierras;;;http://aims.fao.org/aos/agrovoc/c_666dbc26
+;;acaparamiento de tierras;;;http://aims.fao.org/aos/agrovoc/c_cc39a497
+;;Inversión responsable;;;http://aims.fao.org/aos/agrovoc/c_864ce3fa
+;Financiamiento basado en la transacción de tierras;;;;http://aims.fao.org/aos/agrovoc/c_955981b8
+;;garantía (fundo);;;http://aims.fao.org/aos/agrovoc/c_931da360
+;;préstamos de tierras;;;http://aims.fao.org/aos/agrovoc/c_8b6d895f
+;;renta de la tierra;;;http://aims.fao.org/aos/agrovoc/c_7bea427c
+;;Impuesto a la tierra;;;http://aims.fao.org/aos/agrovoc/c_4180
+;;;Impuesto sobre la herencia;;http://aims.fao.org/aos/agrovoc/c_3870
+;;Valoración de tierras;;;http://aims.fao.org/aos/agrovoc/c_72dd6860
+;;captura del valor de la tierra;;;http://aims.fao.org/aos/agrovoc/c_3c069d3e
+Derechos de tierras;;;;;http://aims.fao.org/aos/agrovoc/c_37898
+;Asentamientos humanos;;;;http://aims.fao.org/aos/agrovoc/c_4075759d
+;;Desplazamiento;;;http://aims.fao.org/aos/agrovoc/c_65c7772b
+;;Desposesión;;;http://aims.fao.org/aos/agrovoc/c_781deefb
+;;desalojo;;;http://aims.fao.org/aos/agrovoc/c_0b88a82c
+;;Asentamientos informales;;;http://aims.fao.org/aos/agrovoc/c_ba3b2ea7
+;;Campesino sin tierra;;;http://aims.fao.org/aos/agrovoc/c_24403
+;;Migración;;;http://aims.fao.org/aos/agrovoc/c_4822
+;;ocupación;;;http://aims.fao.org/aos/agrovoc/c_9044ce39
+;;;ocupación ilegal;;http://aims.fao.org/aos/agrovoc/c_8dd43c79
+;;Reasentamiento;;;http://aims.fao.org/aos/agrovoc/c_3836a585
+;acceso a la tierra;;;;http://aims.fao.org/aos/agrovoc/c_9000090
+;;derechos de control;;;http://aims.fao.org/aos/agrovoc/c_7a25baee
+;;derechos de gestión;;;http://aims.fao.org/aos/agrovoc/c_862db225
+;;Derecho de uso;;;http://aims.fao.org/aos/agrovoc/c_6604
+;;derecho de primer ocupante;;;http://aims.fao.org/aos/agrovoc/c_9904d265
+;;derechos de tala;;;http://aims.fao.org/aos/agrovoc/c_62487b4a
+;;derechos de uso;;;http://aims.fao.org/aos/agrovoc/c_945c9e82
+;;Usufructo;;;http://aims.fao.org/aos/agrovoc/c_28784
+;;Abuso;;;http://aims.fao.org/aos/agrovoc/c_ecf20c17
+;conflictos por la tierra;;;;http://aims.fao.org/aos/agrovoc/c_e236b2b1
+;;conflicto agrario;;;http://aims.fao.org/aos/agrovoc/c_1ada969a
+;;;Expertos Independientes (litigios legales);;http://aims.fao.org/aos/agrovoc/c_60fbd8f7
+;;;Resolución de disputas por la tierra;;http://aims.fao.org/aos/agrovoc/c_6f79699c
+;Contratos de tierras;;;;http://aims.fao.org/aos/agrovoc/c_15d674ca
+;;Agricultura contractual;;;http://aims.fao.org/aos/agrovoc/c_1839
+;;contratos de pastoreo;;;http://aims.fao.org/aos/agrovoc/c_bac66d94
+;;Arrendamiento;;;http://aims.fao.org/aos/agrovoc/c_4240
+;;;arrendamiento de fincas;;http://aims.fao.org/aos/agrovoc/c_dec8141f
+;;contrato sobre abono natural;;;http://aims.fao.org/aos/agrovoc/c_6b8a1f45
+;Tenencia de la tierra;;;;http://aims.fao.org/aos/agrovoc/c_12069
+;;régimen comunal (de tierras);;;http://aims.fao.org/aos/agrovoc/c_de048871
+;;Derechos sobre tierras comunales;;;http://aims.fao.org/aos/agrovoc/c_ff890f6b
+;;Continuidad en el derecho a la tierra;;;http://aims.fao.org/aos/agrovoc/c_ffd74ae5
+;;derechos tradicionales de tierras;;;http://aims.fao.org/aos/agrovoc/c_cd44c0b3
+;;derechos de pastoreo;;;http://aims.fao.org/aos/agrovoc/c_97241aeb
+;;Arreglos grupales sobre la tenencia;;;http://aims.fao.org/aos/agrovoc/c_de0f1771
+;;;bienes comunes;;http://aims.fao.org/aos/agrovoc/c_778a14cf
+;;Derechos de vivienda;;;http://aims.fao.org/aos/agrovoc/c_a1b5abd0
+;;Derechos sobre tierras indígenas;;;http://aims.fao.org/aos/agrovoc/c_d42b49e7
+;;Propiedad de la tierra;;;http://aims.fao.org/aos/agrovoc/c_28718
+;;;copropiedad;;http://aims.fao.org/aos/agrovoc/c_599d2e5c
+;;;Propiedad colectiva;;http://aims.fao.org/aos/agrovoc/c_29157
+;;;propiedad comunal;;http://aims.fao.org/aos/agrovoc/c_9024771d
+;;;Propiedad privada;;http://aims.fao.org/aos/agrovoc/c_6192
+;;;Propiedad pública;;http://aims.fao.org/aos/agrovoc/c_6350
+;;modos de aprovechamiento;;;http://aims.fao.org/aos/agrovoc/c_66afb052
+;;;Tenencia consuetudinaria;;http://aims.fao.org/aos/agrovoc/c_56c34d4d
+;;;Tenencia formal;;http://aims.fao.org/aos/agrovoc/c_dfbaecdf
+;;;Propiedad plena y libre;;http://aims.fao.org/aos/agrovoc/c_b972e0ea
+;;;tenencia de tierras indígenas;;http://aims.fao.org/aos/agrovoc/c_a291ae58
+;;;Regímenes de tenencia informales;;http://aims.fao.org/aos/agrovoc/c_bd898e7e
+;;;contrato de arrendamiento ;;http://aims.fao.org/aos/agrovoc/c_d80e0cd0
+;;;libre acceso (espacio);;http://aims.fao.org/aos/agrovoc/c_51a39a94
+;;;Regímenes de tenencia religiosa;;http://aims.fao.org/aos/agrovoc/c_3ba724f1
+;;;Tenencia legal;;http://aims.fao.org/aos/agrovoc/c_dc5739ab
+;;derechos sobre la tierra de los huérfanos;;;http://aims.fao.org/aos/agrovoc/c_e5f9b786
+;;derechos agropastoriles;;;http://aims.fao.org/aos/agrovoc/c_4d6b6100
+;;derechos ribereños;;;http://aims.fao.org/aos/agrovoc/c_a6fdfb0e
+;;Derecho del propietario;;;http://aims.fao.org/aos/agrovoc/c_28775
+;;Inseguridad de la tenencia;;;http://aims.fao.org/aos/agrovoc/c_f417a239
+;;Regularización de la tenencia;;;http://aims.fao.org/aos/agrovoc/c_cc3d0c47
+;;Seguridad de la tenencia;;;http://aims.fao.org/aos/agrovoc/c_7fc44e33
+;;;Percepción de seguridad de la tenencia;;http://aims.fao.org/aos/agrovoc/c_6e4e50f1
+;;Derecho de aguas;;;http://aims.fao.org/aos/agrovoc/c_16062
+;Posesión;;;;http://aims.fao.org/aos/agrovoc/c_13609
+;;Propiedad comunal;;;http://aims.fao.org/aos/agrovoc/c_9000022
+;;propiedad informal;;;http://aims.fao.org/aos/agrovoc/c_1d4ea7db
+;;Propiedad individual de la tierra;;;http://aims.fao.org/aos/agrovoc/c_9000082
+;;Derechos de propiedad;;;http://aims.fao.org/aos/agrovoc/c_37942
+;;;derechos de propiedad maritales;;http://aims.fao.org/aos/agrovoc/c_64d8574a
+;;predio sirviente;;;http://aims.fao.org/aos/agrovoc/c_31e765ad
+;;propiedad pública;;;http://aims.fao.org/aos/agrovoc/c_22d01a32
+Actores involucrados con la tierra;;;;;http://aims.fao.org/aos/agrovoc/c_4374c6c9
+;Actividades;;;;http://aims.fao.org/aos/agrovoc/c_330834
+;;Incidencia;;;http://aims.fao.org/aos/agrovoc/c_1410424255662
+;;Evaluación;;;http://aims.fao.org/aos/agrovoc/c_330990
+;;creación de capacidad;;;http://aims.fao.org/aos/agrovoc/c_37836
+;;Empoderamiento legal;;;http://aims.fao.org/aos/agrovoc/c_c1543349
+;;Vigilancia;;;http://aims.fao.org/aos/agrovoc/c_4911
+;;Investigación;;;http://aims.fao.org/aos/agrovoc/c_6513
+;Familia;;;;http://aims.fao.org/aos/agrovoc/c_2785
+;Agricultores;;;;http://aims.fao.org/aos/agrovoc/c_2805
+;;Pequeños agricultores;;;http://aims.fao.org/aos/agrovoc/c_14343
+;;tenedor;;;http://aims.fao.org/aos/agrovoc/c_f73955fb
+;Gobierno;;;;http://aims.fao.org/aos/agrovoc/c_11230
+;Hogares;;;;http://aims.fao.org/aos/agrovoc/c_3676
+;pueblos indígenas;;;;http://aims.fao.org/aos/agrovoc/c_331524
+;Profesionales vinculados a la tierra;;;;http://aims.fao.org/aos/agrovoc/c_4cae1a3d
+;;Agencias de desarrollo;;;http://aims.fao.org/aos/agrovoc/c_2224
+;;Asociaciones de agricultores;;;http://aims.fao.org/aos/agrovoc/c_2806
+;;organizaciones de base comunitaria;;;http://aims.fao.org/aos/agrovoc/c_50226
+;;notario;;;http://aims.fao.org/aos/agrovoc/c_72efbdb8
+;;geómetra;;;http://aims.fao.org/aos/agrovoc/c_26e30c73
+;Activistas por el derecho a la tierra;;;;http://aims.fao.org/aos/agrovoc/c_e6067b76
+;Propietarios de la tierra;;;;http://aims.fao.org/aos/agrovoc/c_4184
+;Comunidades locales;;;;http://aims.fao.org/aos/agrovoc/c_9000107
+;foráneo;;;;http://aims.fao.org/aos/agrovoc/c_28e0dafa
+;Pastoralistas;;;;http://aims.fao.org/aos/agrovoc/c_653f04fe
+;Sector privado;;;;http://aims.fao.org/aos/agrovoc/c_32525
+;;Industrias extractivas;;;http://aims.fao.org/aos/agrovoc/c_5d3b8015
+;;Industrias de la palma aceitera;;;http://aims.fao.org/aos/agrovoc/c_ccc27fe2
+;Población rural;;;;http://aims.fao.org/aos/agrovoc/c_6705
+;Ocupantes (ilegales);;;;http://aims.fao.org/aos/agrovoc/c_34ea1b1e
+;Arrendatarios;;;;http://aims.fao.org/aos/agrovoc/c_330886
+;Población urbana;;;;http://aims.fao.org/aos/agrovoc/c_8086
+;Juventud;;;;http://aims.fao.org/aos/agrovoc/c_8491
+;Mujeres;;;;http://aims.fao.org/aos/agrovoc/c_8420
